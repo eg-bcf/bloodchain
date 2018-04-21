@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css?family=Shrikhand');
+
+h1 {
+  color: black;
+  font-family: 'Shrikhand', cursive;
+  text-align: center;
+  font-size: 400%;
+
+}
+
+li {
+  color: black;
+}
+
+.purpose {
+  text-align: center;
+  font-size: 300%;
+  color: black;
+  font-weight: bold;
+  font-style: italic;
+}
+
+#lightning .lightning-description {
+  font-size: 300%;
+  color: black;
+  font-family: 'Shrikhand', cursive;
+}
+
+section {
+  height: 100vh;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  align-content: center;
+}
+
+.main-logo {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  align-content: center;
+}
+
+.team {
+  height: 100vh;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  align-content: center;
+  vertical-align: middle;
+  display: inline-block;
+  float:left;
+}
+
+footer {
+  height: 100vh;
+  float: left;
+  display: inline-block;
+}
+
+.foot {
+  padding-top: 100px;
+}
